@@ -1,4 +1,4 @@
-name: BMI Calculator CI
+name: Calculator CI
 
 on:
   push:
