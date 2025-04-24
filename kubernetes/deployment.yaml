@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: calculator
-        image: bhumika0111/calculator:latest
+        image: aniketh2005/calculator:latest
         ports:
         - containerPort: 80
         resources:
